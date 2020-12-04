@@ -4,18 +4,18 @@ import Card from "./Card";
 import "../styles/Grid.css"
 
 const dashboards = [
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi1",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi2",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi3",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi4",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi5",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi6",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi7",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi8",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi9",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi10",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi11",
-  "https://10ax.online.tableau.com/t/viztipdev934611/views/SocialMediaKPIs/kpi12",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-1",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-2",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-3",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-4",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-5",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-6",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-7",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-8",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-9",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-10",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-11",
+  "https://public.tableau.com/views/SocialMediaKPIsDarkTheme/KPI-12",
 ];
 
 function Grid() {
