@@ -1,4 +1,6 @@
-# Responsive Grid with Tableau KPI's - https://tableau-responsive-grid.web.app/
+# Responsive Grid with Tableau KPI's
+
+Demo: https://tableau-responsive-grid.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
