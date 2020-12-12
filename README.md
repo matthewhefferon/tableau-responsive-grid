@@ -2,6 +2,8 @@
 
 Demo: https://tableau-responsive-grid.web.app/
 
+![Tableau Grid](https://user-images.githubusercontent.com/4500215/101992702-639b6a00-3c72-11eb-82e0-e04b27bcf90b.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
